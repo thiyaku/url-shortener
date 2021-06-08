@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Include CSS -->
+    <link href="./css/index.css" rel="stylesheet">
+
+    <title>Shortly</title>
+  </head>
+  <body>
+    <div class="container">
+        <div class="popup">
+          <div class="popup-content">
+            <h1 class="popup-title">Shortly</h1>
+            <p class="popup-body">Open source URL shortener created for DevProjects.</p>
+            
+            <div class="formGroup field">
+                <input type="url" class="formField" placeholder="Please enter your URL here (with http/https)" id='url' required />
+                <a class="popup-button" href="#" onclick="validateURL();">Shorten URL</a>
+            </div>
+          </div>  
+        </div>  
+    </div>
+    <div class="footer">
+      <p>Coded with ❤️ by <a href="https://about.me/thiyaku" target="_blank">Thiyaku Kumaran</a>.&nbsp; Github link for this project - Click Here</p>
+    </div>
+
+    <!-- Include JS-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/simplecopy.min.js"></script>
+    <script src="./js/index.js"></script>
+
+  </body>
+</html>
