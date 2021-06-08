@@ -1,0 +1,31 @@
+{
+    "name": "Shortly",
+    "version": "1.0.0",
+    "description": "This is an open source project from DevProjects.",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "echo 'build script executed'"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thiyaku/url-shortener.git"
+    },
+    "keywords": [
+        "bitly",
+        "url",
+        "shortener",
+        "url shortener",
+        "web",
+        "javascript",
+        "design",
+        "html",
+        "css"
+    ],
+    "author": "Thiyaku Kumaran",
+    "license": "SEE LICENSE IN url-shortener/LICENSE",
+    "bugs": {
+        "url": "https://github.com/thiyaku/url-shortener/issues"
+    },
+    "homepage": "https://github.com/thiyaku/url-shortener#readme"
+}
