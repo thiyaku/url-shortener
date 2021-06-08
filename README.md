@@ -9,8 +9,8 @@ This project is built with:
 * Javascript
 * CSS
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+## Demo
+For demo please click - [Shortly](https://shortly-urlshortener.netlify.app/)
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
